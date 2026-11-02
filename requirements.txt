@@ -1,0 +1,7 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+transformers>=4.46.0
+accelerate>=1.1.0
+PyYAML>=6.0.2
+pydantic>=2.10.0
+safetensors>=0.4.5
